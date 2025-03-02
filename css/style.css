@@ -33,7 +33,7 @@ header {
 #header-content a{
     position: relative;
     color: #d9d9db;
-    background-image: url(images/cart.png);
+    background-image: url(../images/cart.png);
     background-repeat: no-repeat;
     background-size: 40px;
     background-position: center;
